@@ -1,4 +1,8 @@
 # SSOO-tarea01
+Autor
+
+    Maximiliano Baranda Koscina (maximiliano.baranda@alumnos.uv.cl)
+
 tarea 1 sistema operativo
 
 a)a.	comandos ls, cat, chmod, echo, grep, cp, mv, rm y wc. Dé ejemplos de uso. Para el comando ls averigüe para qué sirven las opciones -l, -t y -a. De ejemplo de uso para cada uno de esas opciones y la combinación de ellas. Ayuda: use el comando man, ej. man ls.
